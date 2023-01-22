@@ -1,0 +1,3 @@
+price: 42.956,00TL
+model: Macbook Pro
+cpu: Apple M1
